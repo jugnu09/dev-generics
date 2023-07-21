@@ -1,6 +1,6 @@
 {
   "name": "dev-generics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm package will solve many developer's daily life problem.",
   "main": "index.js",
   "type": "module",
