@@ -1,0 +1,12 @@
+{
+  "name": "dev-generics",
+  "version": "1.0.0",
+  "description": "This npm package will solve many developer's daily life problem.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Singh",
+  "license": "ISC"
+}
